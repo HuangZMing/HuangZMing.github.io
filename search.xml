@@ -7,14 +7,12 @@
 <h2 id="hexo结构"><a href="#hexo结构" class="headerlink" title="hexo结构"></a>hexo结构</h2><p><img src="/2019/10/23/first-hexo/hexo1.png" alt="hexo1"></p>
 <h2 id="hexo文件结构分析"><a href="#hexo文件结构分析" class="headerlink" title="hexo文件结构分析"></a>hexo文件结构分析</h2><p><img src="/2019/10/23/first-hexo/hexo2.png" alt="hexo1"></p>
 <h2 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析"></a>问题分析</h2><p>在安装好基本的hexo所需的工具后，我选择了Next主题来完善我的博客网站。但在安装Next主题过程中出现了如下问题：<br>在官方文档中，添加标签和分类方法是如下：<br><img src="/2019/10/23/first-hexo/hexo3.png" alt="hexo1"><br>但官方文档并没有考虑到图标控件的显示问题。官方在需要显示图标的代码是这样的：<br><img src="/2019/10/23/first-hexo/hexo4.png" alt="hexo1"><br>现实是如果按照这方式是会报错： Cannot GET /categories 20%/，即不能找到对应的地址。<br>经过排查是因为在添加图标后，空格的存在会导致地址错误，故改为这样：</p>
-<pre><code>```
-menu:
+<pre><code>menu:
       home: /|| home
       archives: /archives/|| archive
       categories: /categories/|| th
       tags: /tags/|| tags
-      about: /about/|| user
-```</code></pre><p>即删除下划线和双竖线的空格即可。</p>
+      about: /about/|| user</code></pre><p>即删除下划线和双竖线的空格即可。</p>
 ]]></content>
       <categories>
         <category>hexo</category>
