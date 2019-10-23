@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-23T08:03:20.176Z</updated>
+  <updated>2019-10-23T02:08:53.263Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>Hexo初探</title>
-    <link href="http://yoursite.com/2019/10/23/myblog/"/>
-    <id>http://yoursite.com/2019/10/23/myblog/</id>
-    <published>2019-10-23T02:50:15.000Z</published>
-    <updated>2019-10-23T08:03:20.176Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;初探hexo&quot;&gt;&lt;a href=&quot;#初探hexo&quot; class=&quot;headerlink&quot; title=&quot;初探hexo&quot;&gt;&lt;/a&gt;初探hexo&lt;/h1&gt;&lt;h2 id=&quot;hexo介绍&quot;&gt;&lt;a href=&quot;#hexo介绍&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="-hexo" scheme="http://yoursite.com/tags/hexo/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>

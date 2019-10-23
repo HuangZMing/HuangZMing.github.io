@@ -1,16 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo初探</title>
-    <url>/2019/10/23/myblog/</url>
-    <content><![CDATA[<h1 id="初探hexo"><a href="#初探hexo" class="headerlink" title="初探hexo"></a>初探hexo</h1><h2 id="hexo介绍"><a href="#hexo介绍" class="headerlink" title="hexo介绍"></a>hexo介绍</h2><p>hexo是一个基于node.jsde 轻量、简易的博客工具，我的博客网站便是利用hexo来构成的。我们在hexo上以markdown格式来编写的文章会保存在hexo的服务器上，然后hexo帮助我们生产静态的html页面。简单来说，hexo就是方便我们上传自己文章的一个工具。</p>
-<h2 id="hexo结构"><a href="#hexo结构" class="headerlink" title="hexo结构"></a>hexo结构</h2><p><img src="images/first-hexo/hexo1.png" alt="hexo1"></p>
-]]></content>
-      <tags>
-        <tag>-hexo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2019/10/23/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
