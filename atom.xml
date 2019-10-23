@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-23T08:17:51.805Z</updated>
+  <updated>2019-10-23T08:38:39.291Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/10/23/first-hexo/"/>
     <id>http://yoursite.com/2019/10/23/first-hexo/</id>
     <published>2019-10-23T08:08:12.000Z</published>
-    <updated>2019-10-23T08:17:51.805Z</updated>
+    <updated>2019-10-23T08:38:39.291Z</updated>
     
     <summary type="html">
     
@@ -29,13 +29,14 @@
       
         
         
-          &lt;p&gt;##这是第一个hexo博客&lt;/p&gt;
-
+          &lt;p&gt;##hexo介绍&lt;br&gt;hexo是一个基于node.jsde
         
       
     
     </summary>
     
+    
+      <category term="hexo" scheme="http://yoursite.com/categories/hexo/"/>
     
     
       <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>

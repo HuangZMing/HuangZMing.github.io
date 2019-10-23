@@ -3,8 +3,11 @@
   <entry>
     <title>初探hexo</title>
     <url>/2019/10/23/first-hexo/</url>
-    <content><![CDATA[<p>##这是第一个hexo博客</p>
+    <content><![CDATA[<p>##hexo介绍<br>hexo是一个基于node.jsde 轻量、简易的博客工具，我的博客网站便是利用hexo来构成的。<br>我们在hexo上以markdown格式来编写的文章会保存在hexo的服务器上，然后hexo帮助我们生产静态的html页面。<br>简单来说，hexo就是方便我们上传自己文章的一个工具。<br>##hexo结构<br><img src="hexo1.png" alt="hexo1"></p>
 ]]></content>
+      <categories>
+        <category>hexo</category>
+      </categories>
       <tags>
         <tag>hexo</tag>
       </tags>
