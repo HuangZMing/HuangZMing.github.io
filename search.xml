@@ -3,10 +3,10 @@
   <entry>
     <title>初探hexo</title>
     <url>/2019/10/23/first-hexo/</url>
-    <content><![CDATA[<p>这是第一个hexo博客</p>
+    <content><![CDATA[<p>##这是第一个hexo博客</p>
 ]]></content>
       <tags>
-        <tag>-hexo</tag>
+        <tag>hexo</tag>
       </tags>
   </entry>
   <entry>
