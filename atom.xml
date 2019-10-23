@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-23T08:38:39.291Z</updated>
+  <updated>2019-10-23T08:43:27.872Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2019/10/23/first-hexo/"/>
     <id>http://yoursite.com/2019/10/23/first-hexo/</id>
     <published>2019-10-23T08:08:12.000Z</published>
-    <updated>2019-10-23T08:38:39.291Z</updated>
+    <updated>2019-10-23T08:43:27.872Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;p&gt;##hexo介绍&lt;br&gt;hexo是一个基于node.jsde
+          &lt;h2 id=&quot;hexo介绍&quot;&gt;&lt;a href=&quot;#hexo介绍&quot; class=&quot;headerlink&quot; title=&quot;hexo介绍&quot;&gt;&lt;/a&gt;hexo介绍&lt;/h2&gt;&lt;p&gt;hexo是一个基于node.jsde
         
       
     
