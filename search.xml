@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>yml语法错误</title>
+    <url>/2019/11/01/yml/</url>
+    <content><![CDATA[<h2 id="关于yml配置文件语法的盲区"><a href="#关于yml配置文件语法的盲区" class="headerlink" title="关于yml配置文件语法的盲区"></a>关于yml配置文件语法的盲区</h2><p>今天在配置hexo配置文件实现百度推送我的博客的功能时，总是出现site error的错误。<br><img src="/2019/11/01/yml/1.png" alt="1"><br>原来是自己不熟悉yml的语法知识导致的。子配置选项需要对齐，否则会产生一些歧义，<br>导致配置不成功。</p>
+]]></content>
+      <categories>
+        <category>yml</category>
+      </categories>
+      <tags>
+        <tag>-yml -hexo</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>css三栏左右布局</title>
     <url>/2019/10/30/cssLayout01/</url>
     <content><![CDATA[<h2 id="关于CSS的经典布局探索"><a href="#关于CSS的经典布局探索" class="headerlink" title="关于CSS的经典布局探索"></a>关于CSS的经典布局探索</h2><p>最近在复习一些前端基础知识，在看了一个教学视频后，将记下来的笔记做了一些整理。整理出来css经典三栏左右布局的实现。<br>一共是5种实现方案：</p>
